@@ -1,3 +1,14 @@
+Katkıda Bulunma
+Projeye katkıda bulunmak isterseniz:
+
+Projeyi fork edin
+Feature branch oluşturun (git checkout -b feature/yeniOzellik)
+Değişikliklerinizi commit edin (git commit -am 'Yeni özellik eklendi')
+Branch'inizi push edin (git push origin feature/yeniOzellik)
+Pull Request oluşturun
+
+
+
 # WH Kurumsal v3.0.0
 
 <p align="center">
