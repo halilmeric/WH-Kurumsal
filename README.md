@@ -1,13 +1,3 @@
-Katkıda Bulunma
-Projeye katkıda bulunmak isterseniz:
-
-Projeyi fork edin
-Feature branch oluşturun (git checkout -b feature/yeniOzellik)
-Değişikliklerinizi commit edin (git commit -am 'Yeni özellik eklendi')
-Branch'inizi push edin (git push origin feature/yeniOzellik)
-Pull Request oluşturun
-
-
 
 # WH Kurumsal v3.0.0
 
@@ -21,6 +11,15 @@ Pull Request oluşturun
 ## 🏢 WH Kurumsal Hakkında
 
 WH Kurumsal, modern web teknolojileri kullanılarak geliştirilmiş kapsamlı bir kurumsal yönetim sistemidir. Laravel framework'ü üzerine inşa edilmiş olan bu sistem, işletmelerin müşteri yönetimi, fatura işlemleri, teklif hazırlama ve muhasebe süreçlerini dijitalleştirmelerine olanak tanır.
+
+## Katkıda Bulunma
+Projeye katkıda bulunmak isterseniz:
+
+Projeyi fork edin
+Feature branch oluşturun (git checkout -b feature/yeniOzellik)
+Değişikliklerinizi commit edin (git commit -am 'Yeni özellik eklendi')
+Branch'inizi push edin (git push origin feature/yeniOzellik)
+Pull Request oluşturun
 
 ## ✨ Özellikler
 
